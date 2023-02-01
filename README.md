@@ -1,4 +1,4 @@
-# Soluciones
+# Soluciones de la I OIC
 Histórico de soluciones
 
 Soluciones de los clasificatorios y finales de las ediciones de la Olimpiada Informática de Canarias.
